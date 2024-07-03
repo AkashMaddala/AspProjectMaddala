@@ -1,0 +1,81 @@
+table, th, td {
+	margin-left: auto;
+	margin-right: auto;
+	align-items : center;
+  border: 1px solid black;
+  
+}
+td, th{
+	padding: 10px;
+}
+.buttonsSTyling{
+	
+	padding: 20px;
+	text-align: center;
+	padding-left: 370px;
+	display: flex;
+}
+
+label.ff-bold.mr-3.my-auto{
+	min-width: 120px;
+}
+
+
+
+.purple{
+	color: #8b4b61;
+	
+}
+
+
+.divFormStyles{
+	padding: 10px;
+}
+
+.ageStyles{
+	padding: 30px;
+}
+.nameStyle{
+	padding: 18px;
+	font-weight: 600;
+}
+
+.container{
+	text-align: center;
+	font-weight: 600;
+}
+
+.emailStyle{
+	padding: 35px;
+	font-weight: 600;
+}
+
+.phoneStyle{
+	
+	padding: 3px;
+	font-weight: 600px;
+}
+.seminarStyle{
+	padding: 16px;
+	font-weight: 600px;
+}
+
+.buttonViewSTyling{
+	padding-left:390px;
+	padding: 20px;
+	text-align: center;
+	
+}
+
+.purple{
+	color: #8b4b61;
+	text-align: center;
+	
+}
+
+.inputStyle{
+	overflow: visible;
+	border: 1px solid #bec2c6;
+	padding: 0 8px;
+	border-radius: 4px;
+}
